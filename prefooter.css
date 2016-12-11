@@ -1,0 +1,25 @@
+section.prefoot {
+	background-color: #48265c;
+	background-image: -webkit-gradient(linear, left top, left bottom, from(#582774), to(#48265c));
+	background-image: -webkit-linear-gradient(top, #582774) 0, #48265c 100%);
+	background-image: -o-linear-gradient(top, #582774) 0, #48265c 100%);
+	background-image: linear-gradient(to bottom, #582774) 0, #48265c 100%);
+	filter: progid: DXImageTransform.Microsoft.gradient(startColorstr='#582774', endColorstr='#48265c', GradientType=0);
+	background-repeat: repeat-x;
+}
+section.prefoot h2, section.prefoot label, section.prefoot p {
+	color: #fff;
+}
+section.prefoot label {
+	color: #ddd;
+	font-weight: 300;
+	margin-bottom: .5em;
+}
+section.prefoot .updateButton {
+	color: #fff;
+	border-color: #fff;
+}
+
+section#form {
+	display: none;
+}

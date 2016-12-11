@@ -1,0 +1,20 @@
+section.contact {
+	padding: 1em;
+}
+
+#contact-carousel {
+	text-align: center;
+	font-size: 3em;
+	color: #48265c;
+}
+.item {
+	-webkit-transition: -webkit-transform 2s ease-in-out !important;
+	-moz-transition: -moz-transform 2s ease-in-out !important;
+	-o-transition: -o-transform 2s ease-in-out !important;
+	transition: transform 2s ease-in-out !important;
+}
+/*.active {
+	-webkit-transform: translate3d(0, 0, 0);
+	transform: translate3d(0, 0, 0);
+	left: 0
+}*/
